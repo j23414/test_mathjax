@@ -5,7 +5,6 @@ description: Get math to work
 remote_theme: mmistakes/minimal-mistakes
 readme_index:
   with_frontmatter: true
-plugins: jekyll-theme-minimal
 
 exclude:
   - Gemfile
