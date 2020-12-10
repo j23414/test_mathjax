@@ -9,6 +9,8 @@ readme_index:
 exclude:
   - Gemfile
 
+markdown: kramdown
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
